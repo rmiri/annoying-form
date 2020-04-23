@@ -11,3 +11,13 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+.runAway:hover {
+  margin-left: 300px;
+}
+.formDiv{
+  margin-top: 10vh;
+  background-color: aquamarine;
+}
+.form{
+  background-color: white;
+}
