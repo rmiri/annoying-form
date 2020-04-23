@@ -24,6 +24,7 @@ class Form extends React.Component {
         console.log(this.state)
       return (
       <div className="card">
+          <h1>Don't try to submit me</h1>
           <form>
               <div class="form-group">
                 <label>Name</label>
